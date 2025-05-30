@@ -17,6 +17,7 @@
 5. (Optional) Edit the `config.yml` file to customize the time format labels.
 
 ## Configuration
+**Important**: In the AxEnvoys plugin, set time-format: 1 in its configuration to ensure compatibility with this addon.
 The plugin generates a `config.yml` file in its folder. Default configuration:
 
 ```yaml
