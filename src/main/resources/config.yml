@@ -1,0 +1,7 @@
+time-format:
+  hour: " hour"
+  hours: " hours"
+  minute: " minute"
+  minutes: " minutes"
+  second: " second"
+  seconds: " seconds"

@@ -1,0 +1,5 @@
+name: AxEnvoys-Addon
+version: '1.0'
+main: me.roland882.axenvoysaddon.AxEnvoysAddon
+authors: [ Roland882 ]
+depend: [AxEnvoy, PlaceholderAPI]
