@@ -14,12 +14,7 @@ import java.util.regex.Pattern;
 
 public class PAPI extends PlaceholderExpansion {
     private final AxEnvoysAddon plugin;
-    private final String hourLabel;
-    private final String hoursLabel;
-    private final String minuteLabel;
-    private final String minutesLabel;
-    private final String secondLabel;
-    private final String secondsLabel;
+    private final String hourLabel, hoursLabel, minuteLabel, minutesLabel, secondLabel, secondsLabel;
 
     public PAPI(AxEnvoysAddon plugin) {
         this.plugin = plugin;
